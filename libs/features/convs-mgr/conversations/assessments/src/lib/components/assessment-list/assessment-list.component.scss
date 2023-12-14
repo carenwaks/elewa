@@ -135,6 +135,7 @@ select::-ms-expand {
 
 .search_tooltip {
 	transform: rotateX(4deg);
+	transform: rotate(-90deg) scale(-1);
 }
 
 .search_input::-webkit-input-placeholder {
